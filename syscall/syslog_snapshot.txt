@@ -1,0 +1,6 @@
+cis415@cis415-desktop:/var/log$ tail syslog
+Apr 24 19:26:27 cis415-desktop rtkit-daemon[1035]: Supervising 6 threads of 2 processes of 2 users.
+Apr 24 19:26:28 cis415-desktop pulseaudio[1232]: alsa-sink.c: ALSA woke us up to write new data to the device, but there was actually nothing to write!
+...
+Apr 24 19:34:23 cis415-desktop kernel: [  380.054537] Hello Kernel! This is for CIS 415!
+
